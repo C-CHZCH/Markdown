@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "73d4765f92356911",
+    "type": "split",
+    "children": [
+      {
+        "id": "870e0e61a96d1ff4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "额外小知识/Powell.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87dda0423d387b6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aab9ddffc319ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5403d7015a22e3e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74d0b1ac82a32a3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "石头",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "dc9eee313d6ebfbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "79b964f0c13a5d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0756123d5dced61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "额外小知识/Powell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac914aca3a2ba8ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "额外小知识/Powell.md"
+              }
+            }
+          },
+          {
+            "id": "53f07abe0e58ceaa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "870e0e61a96d1ff4",
+  "lastOpenFiles": [
+    "XAML的补充/深入浅出话Binding.md",
+    "C#/Linq查询.md",
+    "额外小知识/Powell.md",
+    "XAML的补充/控件与布局.md",
+    "XAML的补充/系统的XAML.md",
+    "XAML的补充/x名称空间.md",
+    "算法设计基础/算法设计与基础/前缀树例子.md",
+    "算法设计基础/算法设计与基础.md",
+    "XAML的补充/Png/1661844819212.png",
+    "XAML的补充/Png/Pasted image 20220721094044.png"
+  ]
+}

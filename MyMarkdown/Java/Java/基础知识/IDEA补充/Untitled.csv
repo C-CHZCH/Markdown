@@ -1,0 +1,7 @@
+﻿psvm,自动生成main函数
+.var,自动为对象生成声明
+sout,输出：System.out.println()
+.if,生成if判断
+.for,生成循环，默认是高级for
+fori,用普通for进行遍历
+.try,生成try … catch

@@ -1,0 +1,5 @@
+﻿迭代器定义方式,具体格式
+正向迭代器,容器类名::iterator  迭代器名;
+常量正向迭代器,容器类名::const_iterator  迭代器名;
+反向迭代器,容器类名::reverse_iterator  迭代器名;
+常量反向迭代器,容器类名::const_reverse_iterator  迭代器名;
